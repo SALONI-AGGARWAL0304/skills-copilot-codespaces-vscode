@@ -1,0 +1,11 @@
+{
+  // naming the organization 
+  "name": "CodeSpace for skills !",
+  "customizations":{
+    "vscode":{
+      "extensions":[
+        "GitHub.copilot"
+      ]
+    }
+  }
+}
